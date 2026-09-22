@@ -12,9 +12,14 @@ Electronics Engineer interested in IoT, LoRa/LoRaWAN, PCB design, embedded syste
   Fabricated PCB with solar lithium-battery charging and LilyGO LoRa32 integration. The charging subsystem was initially tested; additional components were installed but not fully tested.  
   [View repository](https://github.com/daikikl/water-quality-measurement-v2)
 
-- **IoT PCB prototype — EasyEDA Pro**  
+- **Soil Parameter Measurement - Version 1 (modular)**  
+  Modular ESP32-based soil-monitoring prototype with RS-485/Modbus sensors, relay-controlled power, microSD storage, and external RTC support.  
+  [View repository](https://github.com/daikikl/soil-sensor-modular-pcb)
+
+- **Soil Parameter Measurement - Version 2**  
   Schematic and PCB layout completed in EasyEDA Pro. Manufacturing and physical validation are pending.  
   [View repository](https://github.com/daikikl/soil-sensor-pcb-iot-prototype)
+
 
 ## Skills
 
